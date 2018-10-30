@@ -1,15 +1,15 @@
 # Design-Patterns-Java
 
 The most used design patterns are   
-**Structural**  
+## Structural  
 1. Factory method 
 2. Singleton  
-**Creational**  
+## Creational  
 3. Adapter  
 4. Composite  
 5. Decorator  
 6. Proxy  
-**Behavioral**  
+## Behavioral  
 7. Chain of Responsibility
 8. Command
 9. Iterator
