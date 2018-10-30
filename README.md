@@ -1,6 +1,6 @@
 # Design-Patterns-Java
 
-The most used design patterns are 
+The most used design patterns are   
 **Structural**  
 1. Factory method 
 2. Singleton
