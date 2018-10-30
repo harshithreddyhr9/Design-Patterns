@@ -8,7 +8,7 @@ We start by creating a class for our creator
 
 ## Implementation considerations
 
-*The creator can be a concrete class and provide a default implementation for the factory method.  
+* The creator can be a concrete class and provide a default implementation for the factory method.  
  In such cases you'll create some default object in base creator.
 * You can also use the simple factory way of accepting additonal arguments to choose between different 
 object types. Subclasses can then override factory method to selectively create different objects for some criteria.
@@ -21,8 +21,8 @@ object types. Subclasses can then override factory method to selectively create 
 
 ## Summary
 
-*Use factory method pattern when you want to delegate object instantiation to subclasses, you'd want to do this when you have product inheritance hierarchy and possibility to future additions to that.
+* Use factory method pattern when you want to delegate object instantiation to subclasses, you'd want to do this when you have product inheritance hierarchy and possibility to future additions to that.
 
 
-
+![Class diagram](relative/images/Factory_CD.png)
 
