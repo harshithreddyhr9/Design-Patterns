@@ -6,7 +6,13 @@
 4. Interface segregation principle
 5. Dependency inversion principle
 
-The most used design patterns are   
+### OOP principles
+1. Encapsulate what varies
+2. Program for interface not implementation
+3. Favor composition over inheritance
+
+
+### Most used design patterns:    
 ## Structural  
 1. Factory method [Notes]() [Code]()
 2. Singleton [Notes]() [Code]()  
